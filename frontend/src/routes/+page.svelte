@@ -2,77 +2,42 @@
 <section>
     <h2>Equipo</h2>
     <ul>
-        <li>
-            <a href="https://github.com/jorgefl8">Jorge Florentino Serra</a> : market-prices-stats
-        </li>
         <li><a href="https://github.com/pablovl95">Pablo Vera López</a> : workingplaces-stats</li>
-        <li>
-            <a href="https://github.com/SetefillaRuano">Setefilla Ruano Calzado</a> : salaried-stats
-        </li>
     </ul>
 
-    <h2>Front-ends</h2>
+    <h2>Front-end</h2>
     <ul>
-        <li>
-            <a href="/market-prices-stats">/market-prices-stats</a>
-        </li>
 	  <li>
             <a href="/workingplaces-stats">/workingplaces-stats</a>
-        </li>
-        <li>
-            <a href="/salaried-stats">/salaried-stats</a>
         </li>
     </ul>
 
     <h2>APIs v1</h2>
     <ul>
-        <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v2/market-prices-stats">/market-prices-stats</a>
-        </li>
 	  <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v2/workingplaces-stats">/workingplaces-stats</a>
-        </li>
-        <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v1/salaried-stats">/salaried-stats</a>
+            <a href="https://sos2223-jul-pvl.ew.r.appspot.com/api/v2/workingplaces-stats">/workingplaces-stats</a>
         </li>
     </ul>
 
 
     <h2>APIs v2</h2>
     <ul>
-        <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v2/market-prices-stats">/market-prices-stats</a>
-        </li>
 	  <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v2/workingplaces-stats">/workingplaces-stats</a>
-        </li>
-        <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v2/salaried-stats">/salaried-stats</a>
+            <a href="https://sos2223-jul-pvl.ew.r.appspot.com/api/v2/workingplaces-stats">/workingplaces-stats</a>
         </li>
     </ul>
 
     <h2>Repositorio</h2>
     <ul>
         <li>
-            <a href="https://github.com/gti-sos/SOS2223-21">gti-sos/SOS2223-21</a>
+            <a href="https://github.com/pablovl95/sos2223-jul-pvl">pablovl95/SOS2223-jul-pvl</a>
         </li>
     </ul>
     <h2>Documentación POSTMAN</h2>
     <ul>
         <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v2/market-prices-stats/docs">
-                /market-prices-stats/docs</a>(hecho por <a href="https://github.com/jorgefl8">Jorge Florentino Serra</a>)
-        </li>
-        <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v1/workingplaces-stats/docs">
+            <a href="https://sos2223-jul-pvl.ew.r.appspot.com/api/v1/workingplaces-stats/docs">
             /workingplaces-stats/docs</a>(hecho por <a href="https://github.com/pablovl95">Pablo Vera López</a>)
-        </li>
-        <li>
-            <a href="https://sos2223-21.ew.r.appspot.com/api/v1/salaried-stats/docs">
-                /salaried-stats/docs</a>(hecho por <a href="https://github.com/SetefillaRuano">Setefilla Ruano Calzado</a>)
-
-                <a href="https://sos2223-21.ew.r.appspot.com/api/v2/salaried-stats/docs">
-                    /salaried-stats/docs</a>(hecho por <a href="https://github.com/SetefillaRuano">Setefilla Ruano Calzado</a>)
         </li>
     </ul>
 </section>

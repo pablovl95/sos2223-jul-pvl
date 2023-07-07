@@ -11,9 +11,7 @@
                 <DropdownMenu>
                     <DropdownItem header>Tipos:</DropdownItem>
                     <DropdownItem divider />
-                    <DropdownItem><a href="/market-prices-stats">market-prices-stats</a></DropdownItem>
                     <DropdownItem><a href="/workingplaces-stats">workingplaces-stats</a></DropdownItem>
-                    <DropdownItem><a href="/salaried-stats">salaried-stats</a></DropdownItem>
                 </DropdownMenu>
             </ButtonDropdown>
         </NavItem>
