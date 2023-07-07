@@ -8,8 +8,9 @@
     "start": "node index",
     "test-workingplaces-stats": "npx newman run ./testsPostman/backend-pvl.json -e ./testsPostman/env/localhost-pvl.json",
     "test-workingplaces-stats-gcloud": "npx newman run ./testsPostman/backend-pvl.json -e ./testsPostman/env/gcloud-pvl-v2.json",
-    "test-gcloud": "npm run test-market-prices-stats-gcloud",
-    "test": "npm run test-market-prices-stats && npm run test-workingplaces-stats && npm run test-salaried-stats"
+    "test-gcloud": "npm run test-workingplaces-stats-gcloud",
+    "test-salaried-stats": "npx newman run ./testsPostman/backend-src.json -e ./testsPostman/env/localhost-src.json",
+    "test": "npm run test-workingplaces-stats"
   },
   "repository": {
     "type": "git",
