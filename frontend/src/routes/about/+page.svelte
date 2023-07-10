@@ -1,11 +1,5 @@
 
 <section>
-    <h2>Jorge</h2>
-    <ul>
-        <li>
-            <a href="https://www.youtube.com/watch?v=ozZmGWlQYH8">/youtube-video</a> - Video de youtube con todo explicado.
-        </li>
-    </ul>
     <h2>Pablo</h2>
     <ul>
         <li>

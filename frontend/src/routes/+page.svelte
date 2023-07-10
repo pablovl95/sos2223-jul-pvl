@@ -12,7 +12,7 @@
         </li>
     </ul>
 
-    <h2>APIs v1</h2>
+    <h2>API v1</h2>
     <ul>
 	  <li>
             <a href="https://sos2223-jul-pvl.ew.r.appspot.com/api/v2/workingplaces-stats">/workingplaces-stats</a>
@@ -20,7 +20,7 @@
     </ul>
 
 
-    <h2>APIs v2</h2>
+    <h2>API v2</h2>
     <ul>
 	  <li>
             <a href="https://sos2223-jul-pvl.ew.r.appspot.com/api/v2/workingplaces-stats">/workingplaces-stats</a>

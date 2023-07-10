@@ -1,29 +1,6 @@
 
 <section>
     <h4>Usos</h4>
-    <ul>
-        <li>
-            <h2>Jorge</h2>
-            <ul>
-                <li class ="li_mod">
-                    <a href="/market-prices-stats/evolution">/evolution</a> : Uso textual de API SOS G13.
-                </li>
-                <li class ="li_mod">
-                    <a href="/market-prices-stats/spotify">/spotify</a> : Uso textual a través de OAUTH de la API de Spotify. Muestra tus playlists.
-                </li>
-                <li class ="li_mod">
-                    <a href="/market-prices-stats/gh">/github</a> : Uso textual a través de OAUTH de la API de GitHub. Muestra información de tu usuario.
-                </li>
-                <li class ="li_mod">
-                    <a href="/market-prices-stats/graph_serie">/graph_serie</a> - Uso con widget API de rapid api para ver info de serie.
-                </li>
-                <li class ="li_mod">
-                    <a href="/market-prices-stats/twitter_rapidapi">/twitter_rapidapi</a> - Uso textual API de rapid api para ver info de usuario de Twitter.
-                </li>
-            </ul>
-        </li>
-        
-    </ul>
     <h2>Pablo</h2>
             <ul>
                 <li class ="li_mod">
@@ -42,15 +19,6 @@
 
     <h4>Integraciones</h4>
     <ul>
-        <li>
-            <h2>Jorge</h2>
-            <ul>
-                <li class ="li_mod">
-                    <a href="/market-prices-stats/graph_proxy">/graph_proxy</a> - D03B.b.b.a: Integración a través de un proxy propio con una api de SOS.
-                </li>
-                
-            </ul>
-        </li>
         <li>
             <h2>Pablo</h2>
             
